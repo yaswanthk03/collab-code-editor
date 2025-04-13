@@ -1,0 +1,147 @@
+[
+  {
+    "time": "10:00 AM",
+    "user": "Alice",
+    "message": "Hey everyone! How's it going?"
+  },
+  {
+    "time": "10:00 AM",
+    "user": "Alice",
+    "message": "By the way, I have some exciting news to share!"
+  },
+  {
+    "time": "10:01 AM",
+    "user": "Bob",
+    "message": "Hey Alice! I'm good, just having my morning coffee. You?"
+  },
+  {
+    "time": "10:02 AM",
+    "user": "Bob",
+    "message": "Also, I was thinking about that project we discussed last week. Any updates?"
+  },
+  {
+    "time": "10:03 AM",
+    "user": "Charlie",
+    "message": "Morning all! I'm doing great. What's the plan for today?"
+  },
+  {
+    "time": "10:04 AM",
+    "user": "Bob",
+    "message": "Charlie, I was just telling Alice about the project. Maybe we can all brainstorm later?"
+  },
+  {
+    "time": "10:05 AM",
+    "user": "Diana",
+    "message": "Hi everyone! Sorry, I'm late. What's up?"
+  },
+  {
+    "time": "10:06 AM",
+    "user": "Alice",
+    "message": "No worries, Diana. Bob was just talking about the project."
+  },
+  {
+    "time": "10:07 AM",
+    "user": "Bob",
+    "message": "Yeah, I think we can make some real progress if we all pitch in."
+  },
+  {
+    "time": "10:08 AM",
+    "user": "Eve",
+    "message": "Good morning, folks! Bob, that sounds interesting. Count me in for the brainstorming session."
+  },
+  {
+    "time": "10:09 AM",
+    "user": "Alice",
+    "message": "By the way, I was thinking we could plan a movie night this weekend. What do you all think?"
+  },
+  {
+    "time": "10:10 AM",
+    "user": "Charlie",
+    "message": "Sounds like a great idea, Alice! I'm in."
+  },
+  {
+    "time": "10:11 AM",
+    "user": "Bob",
+    "message": "Count me in too! It's been a while since we all hung out."
+  },
+  {
+    "time": "10:12 AM",
+    "user": "Diana",
+    "message": "I'm in as well. What movie are we thinking of watching?"
+  },
+  {
+    "time": "10:13 AM",
+    "user": "Alice",
+    "message": "How about something light and funny? A comedy, maybe?"
+  },
+  {
+    "time": "10:14 AM",
+    "user": "Eve",
+    "message": "Comedy sounds good to me. Any specific suggestions?"
+  },
+  {
+    "time": "10:15 AM",
+    "user": "Bob",
+    "message": "How about 'The Grand Budapest Hotel'? It's hilarious and visually stunning."
+  },
+  {
+    "time": "10:16 AM",
+    "user": "Alice",
+    "message": "Great choice, Bob! I love that movie."
+  },
+  {
+    "time": "10:17 AM",
+    "user": "Diana",
+    "message": "Same here! It's a classic."
+  },
+  {
+    "time": "10:18 AM",
+    "user": "Eve",
+    "message": "Alright, 'The Grand Budapest Hotel' it is. What time should we meet?"
+  },
+  {
+    "time": "10:19 AM",
+    "user": "Charlie",
+    "message": "By the way, has anyone tried the new cafe downtown? I heard it's amazing."
+  },
+  {
+    "time": "10:20 AM",
+    "user": "Bob",
+    "message": "Not yet, but I've heard good things too. Maybe we can check it out next week?"
+  },
+  {
+    "time": "10:21 AM",
+    "user": "Diana",
+    "message": "I'm up for it. Let's plan something."
+  },
+  {
+    "time": "10:22 AM",
+    "user": "Eve",
+    "message": "Count me in. I love trying new places."
+  },
+  {
+    "time": "10:23 AM",
+    "user": "Alice",
+    "message": "Alright, let's finalize the details later. For now, back to work!"
+  },
+  {
+    "time": "10:24 AM",
+    "user": "Charlie",
+    "message": "Same here. Catch you all later!"
+  },
+  {
+    "time": "10:25 AM",
+    "user": "Bob",
+    "message": "Bye everyone!"
+  },
+  {
+    "time": "10:26 AM",
+    "user": "Diana",
+    "message": "See you all later!"
+  },
+  {
+    "time": "10:27 AM",
+    "user": "Eve",
+    "message": "Bye!"
+  }
+]
