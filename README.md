@@ -1,1 +1,1 @@
-# AI-enabled-liveChat-app
+# Web-Based Collaborative Code Editor
